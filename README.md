@@ -77,7 +77,8 @@ It makes development and deployment more efficient.
 ---
 ## Docker Architecture
 
-![Docker Architecture](Project-1/app/images/dockerarchitecture.png)
+<img src="Project-1/app/images/dockerarchitecture.png" alt="Docker Architecture" width="400" height="400">
+
 
 ## 🐳 Docker Engine
 
